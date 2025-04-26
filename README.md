@@ -13,7 +13,7 @@ Instead, this repository contains:
 
 ## 🎥 Demonstration
 A video has been recorded to demonstrate the website’s full layout, responsiveness, and interactive elements.  
-You can find the video file [here]([./path-to-video](https://drive.google.com/file/d/1wHhYdN0yMYl29p1S0Lz3nXbJGV80vpZS/view?usp=sharing)) inside this repository.
+You can find the video file [here](https://drive.google.com/file/d/1wHhYdN0yMYl29p1S0Lz3nXbJGV80vpZS/view?usp=sharing) inside this repository.
 
 > ⚡ The video serves as the main showcase of the project, complementing the available code.
 
